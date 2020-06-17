@@ -2,6 +2,36 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ToDo List.xcodeproj">
+      location = "group:../DataModel.xcdatamodeld">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/DataModel.xcdatamodeld">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/AppDelegate.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/Assets.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/Base.lproj">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/Controller">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/DataModel">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/Info.plist">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/SceneDelegate.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../ToDo List/View">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
